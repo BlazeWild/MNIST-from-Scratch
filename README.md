@@ -11,4 +11,4 @@
 
 The parameters obtained are forward prpagated to X_test.And accuracy is calculated by comparing it to y_label
 <br>
-<h2> More info can be found inside the <h1>mnist_numpy.ipynb</h1> file
+<h2> More info abbout this can be found inside the <I>(mnist_numpy.ipynb)<I> file
